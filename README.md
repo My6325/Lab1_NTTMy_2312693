@@ -1,3 +1,33 @@
+# Lab 01 - Khám phá dự án RedRunner
+
+## Thông tin sinh viên
+- **Họ tên:** Nguyễn Thị Trà My
+- **MSSV:** 2312693
+- **Lớp:** CTK47A
+
+## Mô tả
+Bài thực hành Lab 01 môn **Game 2D Development with Unity**.  
+Khám phá và phân tích dự án game RedRunner – một Platformer 2D mã nguồn mở được phát triển bởi Bayat Games.
+
+## Các thay đổi đã thực hiện
+1. Thay đổi tốc độ chạy: 8 → 30
+2. Thay đổi lực nhảy: 12 -> 24
+3. Thay đổi trọng lực: 0.5 -> 3
+4. Thêm Coin vào scene: thêm 2 coin
+
+## Screenshots
+
+
+## Kiến thức đã học được
+1. Hiểu cấu trúc project Unity
+2. Cách chỉnh thông số game trong Inspector
+3. Sử dụng Git và GitHub
+4. Fork và quản lý repository
+5. Quản lý project Unity với Git
+
+# Red Runner
+
+Red Runner, Awesome Platformer Game.
 # Red Runner
 
 Red Runner, Awesome Platformer Game.
