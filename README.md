@@ -17,7 +17,7 @@ Khám phá và phân tích dự án game RedRunner – một Platformer 2D mã n
 
 ## Screenshots
 
-![Game](Screenshot 2026-03-14 185935.png)
+![Game](Game.png)
 
 ## Kiến thức đã học được
 1. Hiểu cấu trúc project Unity
